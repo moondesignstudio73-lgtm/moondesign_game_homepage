@@ -8,7 +8,7 @@ const coop = 'https://mds-coop.co.kr';
 
 const projects = [
   { id:'today-day-one', no:'01', title:'오늘부터 1일', category:'GAME', kind:'STORY SIMULATION GAME', platform:'PC / WEB', year:'2026', tone:'sunset', tagline:'30 DAYS. ONE LOST MEMORY. YOUR CHOICE.', description:'기억을 잃은 주인공이 30일 동안 자신의 과거와 관계를 되찾는 스토리 기반 연애 시뮬레이션.', thumbnail:'/assets/projects/today-day-one.png', url:'https://superstarman35.github.io/game/', video:'https://www.youtube.com/embed/N7Bc-XWqu3M?rel=0' },
-  { id:'health-guardians', no:'02', title:'경북 건강수호대', category:'VR / XR', kind:'VR EXPERIENCE GAME', platform:'META QUEST · EYE TRACKING', year:'2026', tone:'vr', tagline:'LOOK. BLINK. DESTROY.', description:'시선과 눈 깜빡임을 활용해 혈관 속 세균을 제거하는 체험형 VR 게임.', thumbnail:null, url:'https://moondesignstudio73-lgtm.github.io/gyeongbuk-meteor-guard-vr/', video:null },
+  { id:'protect-earth', no:'02', title:'지구를 지켜라', category:'VR / XR', kind:'경상북도 교육용 VR GAME', platform:'VR / WEB', year:'2026', tone:'vr', tagline:'LEARN. PLAY. PROTECT THE EARTH.', description:'경상북도를 위한 교육 콘텐츠를 몰입형 체험으로 구현한 VR 게임.', thumbnail:null, url:'https://moondesignstudio73-lgtm.github.io/gyeongbuk-meteor-guard-vr/', video:null },
   { id:'juju-hotel', no:'03', title:'JUJU HOTEL', category:'GAME', kind:'MYSTERY HOTEL SIMULATION', platform:'WEB', year:'2026', tone:'hotel', tagline:'MAY I HAVE A ROOM?', description:'30일 동안 12개의 객실을 운영하며 누구를 들일지 선택하는 미스터리 호텔 시뮬레이션.', thumbnail:'/assets/projects/juju-hotel.png', url:'https://moondesignstudio73-lgtm.github.io/juminjung/', video:null },
 ];
 
